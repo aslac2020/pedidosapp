@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosApp.Android", "PedidosApp\PedidosApp.Android\PedidosApp.Android.csproj", "{5668F413-A14E-4493-B037-2CD6316DCE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosApp", "PedidosApp\PedidosApp\PedidosApp.csproj", "{3621CD79-ED2E-4313-B776-2F4894D4632D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5668F413-A14E-4493-B037-2CD6316DCE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5668F413-A14E-4493-B037-2CD6316DCE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5668F413-A14E-4493-B037-2CD6316DCE6B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5668F413-A14E-4493-B037-2CD6316DCE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5668F413-A14E-4493-B037-2CD6316DCE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5668F413-A14E-4493-B037-2CD6316DCE6B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3621CD79-ED2E-4313-B776-2F4894D4632D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3621CD79-ED2E-4313-B776-2F4894D4632D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3621CD79-ED2E-4313-B776-2F4894D4632D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3621CD79-ED2E-4313-B776-2F4894D4632D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3621CD79-ED2E-4313-B776-2F4894D4632D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3621CD79-ED2E-4313-B776-2F4894D4632D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547AFBFE-1945-4106-861A-0A987F163889}
+	EndGlobalSection
+EndGlobal
