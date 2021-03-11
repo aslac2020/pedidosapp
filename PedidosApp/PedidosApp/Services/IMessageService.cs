@@ -1,0 +1,13 @@
+﻿using System.Threading.Tasks;
+
+namespace PedidosApp.Services
+{
+    public interface IMessageService
+    {
+        Task ShowAsync(string message);
+        Task ShowAsync(string title, string message, string text1);
+        Task ShowAsync(string title, string message, string text1, string text2);
+        Task<bool> ShowAsyncBoll(string title, string message, string text1, string text2);
+
+    }
+}
